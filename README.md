@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/samuel-dobrancin-qa/saucedemo-playwright-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/samuel-dobrancin-qa/saucedemo-playwright-tests/actions/workflows/playwright.yml)
+
 Sauce Demo — Playwright UI Test Suite
 A simple UI automation project built using Playwright and
 Playwright Codegen on the Sauce Demo e-commerce practice app.
